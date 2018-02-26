@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Preconditioning for iterative linear system solvers",
+    "Eigenvalue solvers",
+    "Statistics and data mining"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Sc. in Computer Science"
+  institution = "University of British Columbia"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. in Mathematics"
+  institution = "Queen's University"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hello! I'm a third-year Ph.D. student in the scientific computing lab at the University of British Columbia. My research focus is numerical linear algebra. Prior to my Ph.D., I completed my Master's degree in the sensorimotor systems lab at UBC and a B.Sc. in mathematics from Queen's. My funding is provided by an NSERC PGS D grant and a UBC Four-Year Fellowship.

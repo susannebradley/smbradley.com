@@ -1,10 +1,10 @@
 +++
 # Tag Cloud widget.
-widget = "tag_cloud"
-active = true
+widget = "tags"
+active = false
 date = 2017-09-20
 
-title = "Tags"
+title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
