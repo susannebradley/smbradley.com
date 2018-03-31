@@ -1,0 +1,7 @@
+@MastersThesis{bradley15,
+author = {Susanne Bradley},
+title = {Applications of machine learning in sensorimotor control},
+school = {University of British Columbia},
+year = {2015},
+month = {8},
+}

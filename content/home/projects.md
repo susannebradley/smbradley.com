@@ -42,3 +42,7 @@ filter_default = 0
 
 +++
 
+- *Current project*: Preconditioners for double saddle point systems with a rank-deficient leading block (in press)
+- Research Proficiency Exam ([RPE](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/research-proficiency-evaluation-rpe/rpe-examination)) project: *The FEAST Algorithm for Sparse Symmetric Eigenvalue Problems* [[pdf](publication/sbradley_rpe.pdf)] [[slides](talk/sbradley_rpe_presentation.pdf)]
+- CPSC 515 (computational robotics) course project: *An Empirical Assessment of Robotic Sampling Schemes for Environmental Mapping with Compressed Sensing* [[pdf](publication/bradley_cs_robotics.pdf)]
+- CPSC 530M (computational sustainability) course project: *Statistical Analysis of Human Overpopulation and Its Impact on Sustainability* [[pdf](content/sbradley_sustainability_project.pdf)]

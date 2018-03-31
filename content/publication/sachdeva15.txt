@@ -1,0 +1,11 @@
+@article{sachdeva15,
+ author = {Sachdeva, Prashant and Sueda, Shinjiro and Bradley, Susanne and Fain, Mikhail and Pai, Dinesh K.},
+ title = {Biomechanical Simulation and Control of Hands and Tendinous Systems},
+ journal = {ACM Trans. Graph.},
+ issue_date = {August 2015},
+ volume = {34},
+ number = {4},
+ month = jul,
+ year = {2015},
+ pages = {42:1--42:10},
+}

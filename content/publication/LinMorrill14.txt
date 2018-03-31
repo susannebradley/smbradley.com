@@ -1,0 +1,9 @@
+@article{lin14,
+title = "Design of variable resolution for model selection",
+journal = "Journal of Statistical Planning and Inference",
+volume = "155",
+pages = "127 - 134",
+year = "2014",
+issn = "0378-3758",
+author = "C. Devon Lin and Susanne Morrill",
+}

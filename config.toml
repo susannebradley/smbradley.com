@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Susanne Bradley"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -174,9 +174,9 @@ defaultContentLanguageInSubdir = false
   ]
 
   # Configuration of talk pages.
-  [params.talks]
+ # [params.talks]
     # Show talk time?
-    time = true
+  #  time = true
 
   # Configuration of publication pages.
   [params.publications]
