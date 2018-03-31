@@ -42,4 +42,4 @@ exclude_selected = false
 
 
 ## Theses
-- *Applications of Machine Learning in Sensorimotor Control*. **Susanne Bradley**, Master's Thesis, University of British Columbia, August 2015. [[pdf](publication/bradley15,pdf)] [[bib](publication/bradley15.txt)]
+- *Applications of Machine Learning in Sensorimotor Control*. **Susanne Bradley**, Master's Thesis, University of British Columbia, August 2015. [[pdf](publication/bradley15_msc.pdf)] [[bib](publication/bradley15.txt)]
