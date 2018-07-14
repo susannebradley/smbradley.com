@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Preconditioning for iterative linear system solvers",
-    "Numerical solution of partial differential equations",
+    "Saddle-point systems",
     "Eigenvalue solvers",
     "Statistics and data mining"
   ]
@@ -32,4 +32,6 @@ weight = 5
 
 # Biography
 
-Hello! I'm a third-year Ph.D. student in the scientific computing lab at the University of British Columbia. My research focus is numerical linear algebra. Prior to my Ph.D., I completed my Master's degree in the sensorimotor systems lab at UBC and a B.Sc. in mathematics from Queen's University. My funding is provided by an NSERC PGS D grant and a UBC Four-Year Fellowship.
+Hello! I'm a fourth-year Ph.D. student in the scientific computing lab at the University of British Columbia. My research focus is numerical linear algebra. Prior to my Ph.D., I completed my Master's degree in the sensorimotor systems lab at UBC and a B.Sc. in mathematics from Queen's University.
+
+For more details, check out my [CV](post/cv.pdf).

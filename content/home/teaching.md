@@ -15,15 +15,13 @@ weight = 60
 
 +++
 
-See my teaching statement [here](post/sbradley_teaching_statement_mar2018.pdf).
+See my teaching statement [here](post/teaching.pdf).
 
 ### Teaching experience
-- 2016-17 Term 2: Sessional Lecturer for CPSC 320: Intermediate Algorithm Design and Analysis
+- CPSC 320: Intermediate Algorithm Design and Analysis (sessional instructor)
 
 ### TA experience
-- 2017-18 Term 2: Teaching Assistant for CPSC 542G: Topics in Numerical Computational (graduate breadth course)
-- 2017-18 Term 1: Head Teaching Assistant for CPSC 320: Intermediate Algorithm Design and Analysis
-- 2016-17 Term 1: Teaching Assistant for CPSC 320: Intermediate Algorithm Design and Analysis
-- 2015-16 Term 2: Teaching Assistant for CPSC 303: Numerical Approximation and Discretization
-- 2015-16 Term 1: Teaching Assistant for CPSC 312: Functional and Logic Programming
-- 2014-15 Term 2: Teaching Assistant for CPSC 303: Numerical Approximation and Discretization
+- CPSC 542G: Topics in Numerical Computational (TA)
+- CPSC 320: Intermediate Algorithm Design and Analysis (head TA, two times)
+- CPSC 312: Functional and Logic Programming (TA)
+- CPSC 303: Numerical Approximation and Discretization (TA, two times)
