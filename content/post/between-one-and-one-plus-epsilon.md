@@ -1,7 +1,7 @@
 +++
 title = "Between One and One Plus (Machine) Epsilon"
 date = 2018-07-14T18:38:07-07:00
-draft = true
+draft = false
 summary = "A song of longing for a computing environment free of floating-point errors. To the tune of *Just Around the Riverbend* by Alan Menken, from the 1995 Disney film *Pocahontas*. Includes both solo and professor-student duet lyrics."
 
 # Tags and categories
@@ -75,28 +75,27 @@ containing all numbers in $[a,b]$. Then Cantor's diagonal argument shows how we 
 in the sequence by selecting digits from numbers in the sequence and then adding new digits at the end (hence 
 "always digits more than you'll be showing").  
 <a name="machEps">2</a> When we say epsilon we are, in this context, referring to *machine* epsilon,
-and not an arbitrary small constant. Unfortunately, the scansion of "machine epsilon&" doesn't work with these
-lyrics, so we've had to make do with the shorthand.  
+and not an arbitrary small constant. Unfortunately, the scansion of "machine epsilon" doesn't work well with this song, so we've had to make do with the shorthand.  
 <a name="machEps2">3</a> Machine epsilon (which we'll denote here by $\epsilon$) is the smallest number such
-that $1 + \epsilon > 1$ in machine representation. Hence, anything between $1$ and $1 + \epsilon$ will be (inaccurately)
+that $1 + \epsilon$ is greater than $1$ in machine representation. Hence, anything between $1$ and $1 + \epsilon$ will be (inaccurately)
 represented on a computer as being equal to $1$ -- so, this is a great, unknown space, much like "just around the 
 riverbend" in this song's original, non-parody lyrics. For more information on machine epsilon (including an
 experiment to compute it yourself), see the 
 [Wikipedia article](https://en.wikipedia.org/wiki/Machine_epsilon).  
 <a name="word">4</a> Some sources (e.g., [Ascher and Greif 2011](http://bookstore.siam.org/cs07/); 
 also, see the corresponding
-[lecture slides for chapter 2](https://pdfs.semanticscholar.org/presentation/0470/6dc02ee0f09b04a87ed9d1a0ff5ece44d2bb.pdf) use "IEEE standard word" to describe the 64-bit representation of a
-number consisting of a sign bit, 11-bit exponent, and 52-bit fraction.  
-<a name="roundoff">5</a> Roundoff errors tend to be non-smooth and very random-looking -- in contrast
+[lecture slides for chapter 2](https://pdfs.semanticscholar.org/presentation/0470/6dc02ee0f09b04a87ed9d1a0ff5ece44d2bb.pdf)) use "IEEE standard word" to describe the standard 64-bit representation of a
+number, which consists of a sign bit, 11-bit exponent, and 52-bit fraction.  
+<a name="roundoff">5</a> Roundoff errors tend to be non-smooth and very random-looking, in contrast
 with truncation errors (which are due to errors in the modeling and discretization of a problem).  
 <a name="stable">6</a> Sometimes roundoff errors aren't due to the problem itself, but rather
 with an unstable algorithm. See chapter 1 of [Ascher and Greif 2011](http://bookstore.siam.org/cs07/)
-again for a discussion of the difference between ill-conditioning (the problem is badly behaved) and instability
-(your algorithm makes roundoff errors blow up, even though the problem itself might be perfectly well-behaved).  
-<a name="ieee">7</a> Refers to the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/), originators of the [IEEE 754](https://ieeexplore.ieee.org/document/4610935/) -- the standard for floating-point computation used in many floating point units.  
-<a name="cancel">8</a> Subtracting two nearby numbers -- that is, performing computations like $1 + O(\epsilon) - 1$ -- can lead to unacceptably high rounding errors because we lose many significant digits. For example, suppose we have two numbers with twelve significant digits, but the first nine are the same. If we subtract one from the other, we're left with just three significant digits, and this is irreversible! For more information on so-called "catastrophic cancellation", including some ways to avoid it, consult any standard numerical analysis text (for example, chapter 2 of [Ascher and Greif 2011](http://bookstore.siam.org/cs07/)).  
-<a name="suicide">9</a> Shout-out to the textbook of [Elman, Silvester and Wathen 2005](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=ca&lang=en&) for exposing me to the truly excellent phrase "algebraic suicide."   
-<a name="step">10</a> Several types of numerical method rely on some kind of "step" (either in space or in time), the size of which can adversely affect the stability of the method. But it's most commonly of concern in the solution of ordinary and partial differential equations -- see, e.g., [Kraaijevanger et. al. 1987](https://core.ac.uk/download/pdf/82036576.pdf).
+again for a discussion of the difference between ill-conditioning (when the problem is badly behaved) and instability
+(when your algorithm makes roundoff errors blow up, even though the problem itself might be perfectly well-behaved).  
+<a name="ieee">7</a> Refers to the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/), originators of the [IEEE 754](https://ieeexplore.ieee.org/document/4610935/) -- the standard for floating-point computation used today in most floating point units.  
+<a name="cancel">8</a> Subtracting two nearby numbers -- that is, performing computations like $(1 + O(\epsilon)) - 1$ -- can lead to unacceptably high rounding errors because we lose many significant digits. For example, suppose we have two numbers with twelve significant digits, but the first nine are the same. If we subtract one from the other, we're left with just three significant digits, and this is irreversible! For more information on so-called "catastrophic cancellation," including some ways to avoid it, consult a numerical analysis text (for example, chapter 2 of [Ascher and Greif 2011](http://bookstore.siam.org/cs07/)).  
+<a name="suicide">9</a> Shout-out to the textbook of [Elman, Silvester and Wathen 2005](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=ca&lang=en&) for coining the truly excellent phrase "algebraic suicide."   
+<a name="step">10</a> Several types of numerical method rely on some kind of "step" (either in space or in time), the size of which can adversely affect the stability of the method. It's most commonly of concern in the solution of ordinary and partial differential equations -- see, e.g., [Kraaijevanger et. al. 1987](https://core.ac.uk/download/pdf/82036576.pdf).
 
 ### <a name="duet">Lyrics (duet version)</a>
 > [**STUDENT**] What I love most about reals is  
