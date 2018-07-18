@@ -20,9 +20,9 @@ caption = ""
 preview = true
 
 +++
-"Present Like a Prof" is set to the music of "I'll Make a Man Out of You" by Matthew Wilder with lyrics by David Zippel. "I'll Make a Man Out of You" is from the 1998 Disney film *Mulan*. Alternative lyrics are by Susanne Bradley, with thanks to Steve Wolfman for wording suggestions and help on scansion.
+"Present Like a Prof" is set to the music of "I'll Make a Man Out of You" by Matthew Wilder with lyrics by David Zippel. "I'll Make a Man Out of You" is from the 1998 Disney film *Mulan*. Alternative lyrics are by Susanne Bradley and Steve Wolfman (who has several of his own [academic parody songs](http://www.cs.ubc.ca/~wolf/songs/)).
 
-Disclaimer: the lyrics below are for entertainment purposes only, and should not be construed as actual advice on how to give a computer science talk. The parody lyric writer is not responsible for any negative consequences (such as audiences concluding that you're a terrible communicator) incurred by delivering a research talk in this manner.
+Disclaimer: the lyrics below are for entertainment purposes only, and should not be construed as actual advice on how to give a computer science talk. The parody lyric writers are not responsible for any negative consequences (like your audience concluding that you're a terrible communicator) incurred by delivering a research talk in this manner.
 
 ### Lyrics
 

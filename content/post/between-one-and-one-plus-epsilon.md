@@ -22,7 +22,7 @@ preview = true
 +++
 "Between One and One Plus Epsilon" is set to the music of "Just Around the Riverbend" by Alan Menken with lyrics by Stephen Schwartz. "Just Around the Riverbend" is from the 1995 Disney film *Pocahontas*. Alternative lyrics are by Susanne Bradley and Chen Greif.
 
-Below the exceedingly lengthy educational footnotes, there's a slightly modified [professor-student duet version](#duet).
+Below the educational footnotes, there's a slightly modified [professor-student duet version](#duet).
 
 ### Lyrics (solo version)
 
@@ -68,14 +68,12 @@ Below the exceedingly lengthy educational footnotes, there's a slightly modified
 
 ##### Footnotes
 <a name="reals">1</a> See Georg Cantor's proof of the uncountability of the real numbers given in,
-e.g., this [1994 article](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Gray819-832.pdf) by Robert Gray. Not only are there infinitely many real numbers (which would be enough to cause problems in a computing context, since we can obviously only represent finitely many different numbers), but
-the infinite set is uncountable, meaning that we can't construct a one-to-one mapping from the natural numbers
-to all the real numbers in an interval . The proof is by contradiction: we assume that we have a sequence
-containing all numbers in $[a,b]$. Then Cantor's diagonal argument shows how we can construct a new number not
+e.g., this [1994 article](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Gray819-832.pdf) by Robert Gray. The proof is by contradiction: we assume that we have a sequence
+containing all numbers in an interval $[a,b]$. Then Cantor's diagonal argument shows how we can construct a new number in $[a,b]$ that's not
 in the sequence by selecting digits from numbers in the sequence and then adding new digits at the end (hence 
 "always digits more than you'll be showing").  
 <a name="machEps">2</a> When we say epsilon we are, in this context, referring to *machine* epsilon,
-and not an arbitrary small constant. Unfortunately, the scansion of "machine epsilon" doesn't work well with this song, so we've had to make do with the shorthand.  
+and not an arbitrary small constant. Unfortunately, the scansion of "machine epsilon" doesn't work well with this song, so we've had to make do with the shorthand. (Another option would have been to try to make "unit roundoff" work somehow, but that's somehow less poetic-sounding than "epsilon." It also would have denied us our repeatedly used semi-rhyme between "epsilon" and "one," and that would just be ignorant.)  
 <a name="machEps2">3</a> Machine epsilon (which we'll denote here by $\epsilon$) is the smallest number such
 that $1 + \epsilon$ is greater than $1$ in machine representation. Hence, anything between $1$ and $1 + \epsilon$ will be (inaccurately)
 represented on a computer as being equal to $1$ -- so, this is a great, unknown space, much like "just around the 
@@ -86,16 +84,15 @@ experiment to compute it yourself), see the
 also, see the corresponding
 [lecture slides for chapter 2](https://pdfs.semanticscholar.org/presentation/0470/6dc02ee0f09b04a87ed9d1a0ff5ece44d2bb.pdf)) use "IEEE standard word" to describe the standard 64-bit representation of a
 number, which consists of a sign bit, 11-bit exponent, and 52-bit fraction.  
-<a name="roundoff">5</a> Roundoff errors tend to be non-smooth and very random-looking, in contrast
-with truncation errors (which are due to errors in the modeling and discretization of a problem).  
+<a name="roundoff">5</a> Roundoff errors tend to be non-smooth and random-looking (though they are, of course, not actually random). That's quite different from truncation errors, which are due to errors in the modeling and discretization of a problem (and tend to be more predictable).  
 <a name="stable">6</a> Sometimes roundoff errors aren't due to the problem itself, but rather
 with an unstable algorithm. See chapter 1 of [Ascher and Greif 2011](http://bookstore.siam.org/cs07/)
 again for a discussion of the difference between ill-conditioning (when the problem is badly behaved) and instability
 (when your algorithm makes roundoff errors blow up, even though the problem itself might be perfectly well-behaved).  
-<a name="ieee">7</a> Refers to the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/), originators of the [IEEE 754](https://ieeexplore.ieee.org/document/4610935/) -- the standard for floating-point computation used today in most floating point units.  
+<a name="ieee">7</a> Refers to the [Institute of Electrical and Electronics Engineers](https://www.ieee.org/), originators of the [IEEE 754](https://ieeexplore.ieee.org/document/4610935/): the standard for floating-point computation used today in most floating point units.  
 <a name="cancel">8</a> Subtracting two nearby numbers -- that is, performing computations like $(1 + O(\epsilon)) - 1$ -- can lead to unacceptably high rounding errors because we lose many significant digits. For example, suppose we have two numbers with twelve significant digits, but the first nine are the same. If we subtract one from the other, we're left with just three significant digits, and this is irreversible! For more information on so-called "catastrophic cancellation," including some ways to avoid it, consult a numerical analysis text (for example, chapter 2 of [Ascher and Greif 2011](http://bookstore.siam.org/cs07/)).  
-<a name="suicide">9</a> Shout-out to the textbook of [Elman, Silvester and Wathen 2005](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=ca&lang=en&) for coining the truly excellent phrase "algebraic suicide."   
-<a name="step">10</a> Several types of numerical method rely on some kind of "step" (either in space or in time), the size of which can adversely affect the stability of the method. It's most commonly of concern in the solution of ordinary and partial differential equations -- see, e.g., [Kraaijevanger et. al. 1987](https://core.ac.uk/download/pdf/82036576.pdf).
+<a name="suicide">9</a> Shout-out to the textbook of [Elman, Silvester and Wathen](https://global.oup.com/academic/product/finite-elements-and-fast-iterative-solvers-9780199678808?cc=ca&lang=en&) for coining the truly excellent phrase "algebraic suicide" on p. 131 of the 2014 edition. (It was actually "linear algebraic suicide," but close enough.)   
+<a name="step">10</a> Several types of numerical method rely on some kind of "step" (either in space or in time), the size of which can affect the stability of the method. It's most commonly of concern in the solution of ordinary and partial differential equations -- see, e.g., [Kraaijevanger et. al. 1987](https://core.ac.uk/download/pdf/82036576.pdf).
 
 ### <a name="duet">Lyrics (duet version)</a>
 > [**STUDENT**] What I love most about reals is  

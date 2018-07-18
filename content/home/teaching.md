@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-See my teaching statement [here](post/teaching.pdf).
+Check out my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.
 
 ### Teaching experience
 - CPSC 320: Intermediate Algorithm Design and Analysis (sessional instructor)
