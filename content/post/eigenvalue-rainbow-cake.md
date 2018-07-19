@@ -1,6 +1,6 @@
 +++
 title = "Eigenvalue Rainbow Cake"
-date = 2017-08-02
+date = 2017-08-05
 draft = false
 
 # Tags and categories
@@ -19,7 +19,7 @@ caption = ""
 preview = false
 
 +++
-I was at a party for a [preconditioning conference](http://www.cs.ubc.ca/~greif/precon17/) and agreed to provide a dessert: hence, my eigenvalue rainbow cake. Get it? Because eigenvalues and rainbows are both a kind of spectrum! I'll stop explaining my own jokes and provide some pictures...
+I recently volunteered to provide a dessert for a party associated with a [preconditioning conference](http://www.cs.ubc.ca/~greif/precon17/) -- hence, my eigenvalue rainbow cake. Get it? Because eigenvalues and rainbows are both a kind of spectrum! I'll stop explaining my own jokes and provide some pictures...
 
 
 |       |       |
@@ -29,4 +29,4 @@ I was at a party for a [preconditioning conference](http://www.cs.ubc.ca/~greif/
 ![eigenvalue rainbow cake sliced](/img/cake/cake_slice_web.jpg)
 
 #### Implementation details
-I used [this recipe](http://divascancook.com/easy-rainbow-cake-recipe-from-scratch/) for the sponge. The frosting is an Italian meringue buttercream from The Culinary Institute of America's [*Baking and Pastry: Mastering the Art and Craft*](https://www.amazon.ca/dp/B00UGE1U8Q) (2nd Ed., p. 480).
+I used [this buttermilk cake recipe](http://divascancook.com/easy-rainbow-cake-recipe-from-scratch/) for the sponges. The frosting is an Italian meringue buttercream from The Culinary Institute of America's [*Baking and Pastry: Mastering the Art and Craft*](https://www.amazon.ca/Baking-Pastry-Mastering-Art-Craft/dp/0470928654/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) (2nd Ed., p. 480).
