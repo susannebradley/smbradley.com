@@ -27,4 +27,4 @@ I am not currently TA'ing any courses.
 - CPSC 303: Numerical Approximation and Discretization (TA, two times)
 
 ### Teaching philosophy
-Check out my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.
+See my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.
