@@ -29,4 +29,4 @@ image = ""
 caption = ""
 
 +++
-I'm interested in preconditioning various kinds of saddle point problems. This is currently my main area of research. Work is currently in progress on preconditioning methods for double saddle point methods -- stay tuned!
+I'm interested in preconditioning various kinds of saddle point problems. This is currently the main focus of my research. Work is forthcoming -- stay tuned!

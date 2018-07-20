@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Check out my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.
+I am not currently TA'ing any courses.
 
 ### Teaching experience
 - CPSC 320: Intermediate Algorithm Design and Analysis (sessional instructor)
@@ -25,3 +25,6 @@ Check out my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /static
 - CPSC 320: Intermediate Algorithm Design and Analysis (head TA, two times)
 - CPSC 312: Functional and Logic Programming (TA)
 - CPSC 303: Numerical Approximation and Discretization (TA, two times)
+
+### Teaching philosophy
+Check out my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.

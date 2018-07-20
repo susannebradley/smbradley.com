@@ -25,7 +25,7 @@ This is a list of my 15 favourite books (as of July 2018). I would have made a t
 #### [*The Big Picture: On the Origins of Life, Meaning, and the Universe Itself*](https://www.amazon.ca/dp/B014EOUMZA) &nbsp; by Sean Carroll
 |       |       |
 | ------|-------|
-| ![img](/img/books/bigpicture.jpg) ------------------------------------------ | Even though I read a fair bit of non-fiction, this is the only non-fiction book to make my list. This book has it all: cosmology, biology, philosophy, history, an explanation of why supernatural forces probably don't exist... But my real reason for including it is that this is the best attempt I've seen to construct a philosophical worldview that's informed by science. |
+| ![img](/img/books/bigpicture.jpg) ------------------------------------------ | Even though I read a fair bit of non-fiction, this is the only non-fiction book to make my list. This book has it all: cosmology, biology, philosophy, history, an explanation of why telekinetic powers definitely don't exist... But my real reason for including it is that this is the best attempt I've seen to construct a philosophical worldview that's informed by science. |
 
 #### [*Disgrace*](https://www.amazon.ca/dp/B00XZQB6A4) by J.M. Coetzee
 |       |       |
@@ -35,7 +35,7 @@ This is a list of my 15 favourite books (as of July 2018). I would have made a t
 #### [*Jude the Obscure*](https://www.amazon.ca/dp/B004GNFTUI) by Thomas Hardy
 |       |       |
 | ------|-------|
-| ![img](/img/books/jude.jpg) ------------------------------------------ | Man, if you thought *Tess of the d'Urbervilles* was bleak... This book was poorly received on publication, and was called "Jude the Obscene" by at least one reviewer. But it's an incredibly powerful (if depressing) novel. It centers around the life of a poor man named Jude Fawley in Victorian England who dreams of being a scholar, but (spoiler alert) has a bunch of awful stuff happen to him instead. This is one of those books where I finished it and then just had to pause and sit with the emotional impact of what I'd read. |
+| ![img](/img/books/jude.jpg) ------------------------------------------ | Man, if you thought *Tess of the d'Urbervilles* was bleak... This book was poorly received on publication, and was apparently called "Jude the Obscene" by at least one reviewer. But it's an incredibly powerful (if depressing) novel. It centers around the life of a poor man named Jude Fawley in Victorian England who dreams of being a scholar, but (spoiler alert) has a bunch of awful stuff happen to him instead. |
 
 #### [*The Stand*](https://www.amazon.ca/dp/B001C4NXKM) by Stephen King
 |       |       |
@@ -50,7 +50,7 @@ This is a list of my 15 favourite books (as of July 2018). I would have made a t
 #### [*Remembrance of Earth's Past: The Three-Body Trilogy*](https://www.amazon.ca/dp/B01N198VU5) by Liu Cixin
 |       |       |
 | ------|-------|
-| ![img](/img/books/remembrance.jpg) ------------------------------------------ | Like many people, I read these books because Barack Obama said they were good. The president did not lead me astray: this series is a brilliant take on the old "first contact with aliens" story. Reading it was an interesting experience: I found myself not wanting to put the book down because I was eagerly awaiting hearing this novel's proposed answers to some of the universe's greatest mysteries. They're intriguing, and not entirely implausible (at least not to me with my non-expert knowledge). |
+| ![img](/img/books/remembrance.jpg) ------------------------------------------ | Like many people, I read these books because Barack Obama said they were good. The president did not lead me astray: this series is a brilliant take on the old "first contact with aliens" story. Reading it was an interesting experience -- I found myself not wanting to put the book down because I was eagerly awaiting this novel's proposed answers to some of the universe's greatest mysteries. They're intriguing, and not entirely implausible (at least not to me with my non-expert knowledge). |
 
 #### [*One Hundred Years of Solitude*](https://www.amazon.ca/Hundred-Solitude-Gabriel-Garcia-Marquez/dp/0060883286/ref=sr_1_1?ie=UTF8&qid=1531845038&sr=8-1&keywords=gabriel+garcia+marquez) by Gabriel García Márquez
 |       |       |
@@ -70,7 +70,7 @@ This is a list of my 15 favourite books (as of July 2018). I would have made a t
 #### [*Beloved*](https://www.amazon.ca/dp/B000TWUTYG) by Toni Morrison
 |       |       |
 | ------|-------|
-| ![img](/img/books/beloved.jpg) ------------------------------------------ | If I had to pick a favourite author, it would be Toni Morrison. I love Toni Morrison. I've read (almost) all of her novels, but *Beloved* was the first and it remains my favourite. Part historical fiction, part ghost story (because slavery is an excellent basis for ghost stories), this book is incredible. I was asked recently what exactly I liked about it (by someone who read it and wasn't fond of the frequent unannounced changes in time and perspective), and it's one of those books where I can't explain exactly why I like it -- I just know that I do. |
+| ![img](/img/books/beloved.jpg) ------------------------------------------ | If I had to pick a favourite author, it would be Toni Morrison. I love Toni Morrison. I've read (almost) all of her novels, but *Beloved* was the first and it remains my favourite. Part historical fiction, part ghost story (because slavery is a tragically good basis for a horror story), this book is incredible. I was asked recently what exactly I liked about it (by someone who read it and wasn't fond of the frequent unannounced changes in time and perspective), and it's one of those books where I can't explain exactly why I like it -- I just know that I do. |
 
 #### [*The Harry Potter series*](https://www.amazon.ca/dp/B01B3DKROQ) by J.K. Rowling
 |       |       |
