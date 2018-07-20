@@ -1,6 +1,6 @@
 +++
 title = "Eigenvalue Rainbow Cake"
-date = 2017-08-05
+date = 2017-08-05T17:12:58-07:00
 draft = false
 
 # Tags and categories
@@ -19,7 +19,7 @@ caption = ""
 preview = false
 
 +++
-I recently volunteered to provide a dessert for a party associated with a [preconditioning conference](http://www.cs.ubc.ca/~greif/precon17/) -- hence, my eigenvalue rainbow cake. Get it? Because eigenvalues and rainbows are both a kind of spectrum! I'll stop explaining my own jokes and provide some pictures...
+I volunteered to provide a dessert for a party associated with a [preconditioning conference](http://www.cs.ubc.ca/~greif/precon17/) -- hence, my eigenvalue rainbow cake. Get it? Because eigenvalues and rainbows are both a kind of spectrum! I'll stop explaining my own jokes and provide some pictures...
 
 
 |       |       |
