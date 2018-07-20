@@ -53,7 +53,7 @@ Disclaimer: the lyrics below are for entertainment purposes only, and should not
 > Use Beamer slides full of math ungodly  
 > Mysterious as “left as an exercise” [^5]  
 
-> Just an hour left now -- there's no time to stop  
+> Just an hour left now -- but no time to stop  
 > Do these slide revisions or your talk will flop  
 > There’s a bug here in your demo code  
 > A typo on slide forty-two  
