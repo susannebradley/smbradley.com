@@ -5,11 +5,11 @@ widget = "posts"
 active = false
 date = "2016-04-20T00:00:00"
 
-title = "Recent Posts"
+title = "Blog"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight =64
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -18,7 +18,6 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 2
 
 +++
-
