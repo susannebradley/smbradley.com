@@ -18,7 +18,7 @@ weight = 60
 I am not currently TA'ing any courses.
 
 ### Teaching experience
-- CPSC 320: Intermediate Algorithm Design and Analysis (winter 2016/17 term 2)
+- CPSC 320: Intermediate Algorithm Design and Analysis (winter 2016-17 term 2)
 
 ### TA experience
 - CPSC 542G: Topics in Numerical Computation
