@@ -18,13 +18,13 @@ weight = 60
 I am not currently TA'ing any courses.
 
 ### Teaching experience
-- CPSC 320: Intermediate Algorithm Design and Analysis (sessional instructor)
+- CPSC 320: Intermediate Algorithm Design and Analysis (winter 2016/17 term 2)
 
 ### TA experience
-- CPSC 542G: Topics in Numerical Computational (TA)
-- CPSC 320: Intermediate Algorithm Design and Analysis (head TA, two times)
-- CPSC 312: Functional and Logic Programming (TA)
-- CPSC 303: Numerical Approximation and Discretization (TA, two times)
+- CPSC 542G: Topics in Numerical Computation
+- CPSC 320: Intermediate Algorithm Design and Analysis (head TA)
+- CPSC 312: Functional and Logic Programming
+- CPSC 303: Numerical Approximation and Discretization
 
 ### Teaching philosophy
 See my {{% staticref "files/teaching.pdf" %}}teaching statement{{% /staticref %}}.
