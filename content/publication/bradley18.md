@@ -1,6 +1,6 @@
 +++
-title = "Applications of Machine Learning in Sensorimotor Control"
-date = 2015-08-01
+title = "Ideal Preconditioners for Saddle Point Systems with a Rank-Deficient Leading Block"
+date = 2018-07-23T19:23:58-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Susanne Bradley"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Master's thesis"
-publication_short = "Master's thesis"
+publication = "arXiv:cs[NA]"
+publication_short = "Technical report"
 
 # Abstract and optional shortened version.
-abstract = "There have been many recent advances in the simulation of biologically realistic systems, but controlling these systems remains a challenge. In this thesis, we focus on methods for learning to control these systems without prior knowledge of the dynamics of the system or its environment. We present two algorithms. The first, designed for quasistatic systems, combines Gaussian process regression and stochastic gradient descent. By testing on a model of the human mid-face, we show that this combined method gives better control accuracy than either regression or gradient descent alone, and improves the efficiency of the optimization routine. The second addresses the trajectory-tracking problem for dynamical systems. Our method automatically learns the relationship between muscle activations and resulting movements. We also incorporate passive dynamics compensation and propose a novel gain-scheduling algorithm. Experiments performed on a model of the human index finger demonstrate that each component we add to the control formulation improves performance of fingertip precision tasks."
+abstract = "We consider the iterative solution of symmetric saddle point systems with a rank-deficient leading block. We develop two preconditioners that, under certain assumptions on the rank structure of the system, yield a preconditioned matrix with a constant number of eigenvalues. We then derive some properties of the inverse of a particular class of saddle point system and exploit these to develop a third preconditioner, which remains ideal even when the earlier assumptions on rank structure are relaxed."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -35,15 +35,15 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["sensorimotor-control"]
+projects = ["saddle-pt"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "files/bradley15.pdf"
-url_preprint = ""
+url_pdf = "files/bradley18.pdf"
+url_preprint = "https://arxiv.org/abs/1807.08590"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -55,7 +55,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "BibTex", url="files/bradley15.txt"}]
+url_custom = [{name = "BibTex", url="files/bradley18.txt"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

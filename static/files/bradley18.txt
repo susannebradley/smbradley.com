@@ -1,0 +1,7 @@
+@misc{bradley18,
+Author = {Susanne Bradley},
+Title = {Ideal Preconditioners for Saddle Point Systems with a Rank-Deficient Leading Block},
+Year = {2018},
+Month = {7},
+Eprint = {arXiv:1807.08590},
+}
