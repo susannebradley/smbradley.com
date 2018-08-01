@@ -2,7 +2,7 @@
 title = "Writing a Research Mission Statement"
 date = 2018-07-27T17:30:01-07:00
 draft = false
-summary = "Nearly every business has a mission statement, which helps them focus on the values they deem most important. But individuals can write mission statements, too. Here's why aspiring academics should write a mission statement for their research."
+summary = "Nearly every business has a mission statement, which helps them focus on their values and long-term goals. But individuals can write mission statements, too. Here's why aspiring academics should write a mission statement for their research."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
