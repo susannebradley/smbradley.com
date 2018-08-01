@@ -20,52 +20,50 @@ caption = ""
 preview = true
 
 +++
-A few months ago, I read [*7 Habits of Highly Effective People*](https://amzn.to/2vq5yJZ). This book goes well beyond time management, asking you to consider what kind of person you want to be and what kind of life you want to lead. To help you figure this out, the book proposes writing a **personal mission statement**. Nearly every business has a mission statement, which helps them focus on the values they deem most important. But individuals can write mission statements, too. They can be as long or as short as you like, and you can write it for yourself or for any of the roles in your life (researcher, worker, student, spouse, parent, friend, etc.). Here's a short version of my life mission statement:
+A few months ago, I read [*7 Habits of Highly Effective People*](https://amzn.to/2vq5yJZ) by Stephen R. Covey, thinking it could improve my time management skills. But Covey proposes that many problems with time management are actually problems with goal-setting and prioritizing. To help with this, he suggests writing a **personal mission statement**. 
+
+Nearly every business has a mission statement, which helps them focus on the values they deem most important. But individuals can write mission statements, too. They can be as long or as short as you like, and you can write it for yourself or for any of the roles in your life (researcher, teacher, spouse, parent, friend, etc.). Here's the short version of my life mission statement:
 
 > *My mission is to understand as much as I can and use my insight to help others.*
 
-# Why you should write a research mission statement
+### Why you should write a research mission statement
 
-If you're a graduate student (or an academic), you have a lot you want to get done and a long time that you'll be working on it. But you probably have a lot of [unstructured time](https://www.chronicle.com/article/More-Than-a-Summer/240357) on your hands, and you need to figure out how best to apply yourself to achieve your goals.
+If you're a Ph.D. student (or postdoc or professor), you have a lot you want to get done and a long time that you'll be working on it. But you probably have fairly little external guidance and a lot of [unstructured time](https://www.chronicle.com/article/More-Than-a-Summer/240357) on your hands, so you need to figure out on your own how to apply yourself to achieve your goals.
 
-I, like many graduate students, have sometimes gotten sucked into the "efficiency improvement vortex": fretting over how many hours I worked and what tools I used, without giving enough thought to my longer-term goals. Ironically, you can waste a lot of time and energy by [focusing exclusively on efficiency](https://www.lifehack.org/articles/productivity/11-differences-between-busy-people-and-productive-people.html). You might assume you're being productive because you're frantically busy, when in fact you're [exhausting yourself with tasks that don't matter](https://alifeofproductivity.com/it-often-doesnt-matter-how-productive-you-are/). You might end up letting other people determine your priorities --say, by working on a project that doesn't interest you because your supervisor wants it done. Worse, you might spend years in a Ph.D. program before you realize it was [never a good fit for you](https://www.universityaffairs.ca/career-advice/beyond-the-professoriate/ok-quit-phd/).
+I, like many graduate students, have sometimes gotten sucked into the "efficiency improvement vortex": fretting over working longer hours and finding better tools, without giving enough thought to my longer-term goals. Ironically, you can waste a lot of time and energy by [focusing exclusively on efficiency](https://www.lifehack.org/articles/productivity/11-differences-between-busy-people-and-productive-people.html). You might assume you're being productive because you're frantically busy when in fact you're [exhausting yourself with tasks that don't matter](https://alifeofproductivity.com/it-often-doesnt-matter-how-productive-you-are/). You might end up letting other people determine your priorities --say, by working on a project that doesn't interest you because your supervisor wants it done. Worse, you might spend years in a Ph.D. program before you realize it was [never a good fit for you](https://www.universityaffairs.ca/career-advice/beyond-the-professoriate/ok-quit-phd/).
 
-A mission statement will define what you want to accomplish. And once you have it, you can refer to it to make sure that your decisions are aligned with your core values.
+A mission statement will define what you want to accomplish in the long term. And once you have it, you can refer to it to make sure that your decisions are aligned with your core values.
 
-> *Once you have that sense of mission... you have the basic direction from which you set your long- and short-term goals. You have the power of a written constitution based on correct principles, against which every decision concerning the most effective use of your time, your talents, and your energies can be effectively measured.*  
+> *Once you have that sense of mission... [y]ou have the basic direction from which you set your long- and short-term goals. You have the power of a written constitution based on correct principles, against which every decision concerning the most effective use of your time, your talents, and your energies can be effectively measured.*  
 > <div style="text-align: right"> -- Stephen R. Covey, *7 Habits of Highly Effective People* </div>
 
 
-# How to get started
-There are two ways you can do this. One is to jump right in and write down your goals as a researcher (and you can use the three steps below to do this). But I recommend a more holistic approach. Research will be a big part of your life -- if not for your whole career, then at least for the duration of your degree -- and in addition to figuring out what you want to accomplish at work, you also want to think about how your academic goals relate to other goals in your life. How will you balance research with your other priorities? Do you really want to be a researcher, or would another career path be more in line with your values?
+### How to get started
+One way to do this is to jump right in and write down your goals as a researcher (you can use the three steps below to help you). But I recommend a more holistic approach. Research will be a big part of your life -- if not for your whole career, then at least for the duration of your degree -- and in addition to figuring out what you want to accomplish at work, you also want to think about how your academic goals relate to other goals in your life. How will you balance research with your other priorities? Do you really want to be a researcher, or would another career path be more in line with your values?
 
-So what I suggest you do (and what I did) is write a mission statement for your entire life first. Think about what you value, who you want to be, and what you want to accomplish in your life. If you do that well, you can use your life statement as a template for your research statement and any other role-specific statements you might want to write.
+So what I suggest you do (and what I did) is write a mission statement for your entire life first. Think about what you value, who you want to be, and what you want to accomplish in your life. Then you can use your life statement as a template for your research statement and any other role-specific statements you might want to write.
 
-### Step 1: Think about your values in general terms
+##### Step 1: Think about your values in general terms
 Think about values that are important to you. These are things you want to possess or to embody. Some things I came up with:
 
-> *Integrity, compassion, creativity, dignity, insight, love, understanding.*
+> *Learning, originality, integrity, open-mindedness, compassion, dignity, growth.*
 
-### Step 2: Think about your goals
-Ask yourself: what do you want to achieve in your life? Some of mine were:
+##### Step 2: Think about your goals
+What do you want to achieve? Some of mine were:
 
-> *Deep, meaningful relationships*  
-> *Knowledge and understanding that helps others in their lives*  
-> *A healthy, balanced life*  
-> *Creative contributions to the world*
+> *Creative contributions to the world*  
+> *Deep insight, wisdom, and understanding*  
+> *A healthy, balanced lifestyle*  
+> *Strong relationships with others*  
 
-### Step 3: Write your final statement
-Look over the rough points you jotted down in the previous steps. Do you notice any connections between your list items? Are there any central themes that show up repeatedly?
+##### Step 3: Write your final statement
+Mission statements vary in length and style. CEOs -- fast-paced, to-the-point types that they are -- are [big on brevity](https://www.fastcompany.com/3026791/personal-mission-statements-of-5-famous-ceos-and-why-you-should-write-one-too). Others [are longer](http://www.d.umn.edu/~scastleb/mission%20statement%20example%20one.html), and sometimes get [creative with formatting](https://msb.franklincovey.com/inspired/anonymous). There's no "correct" way to write your statement: you should go with whatever resonates with you.
 
-Mission statements vary in length and style. CEOs -- fast-paced no-nonsense types that they are -- are [big on brevity](https://www.fastcompany.com/3026791/personal-mission-statements-of-5-famous-ceos-and-why-you-should-write-one-too). Others are longer[^1], and sometimes get [creative with formatting](https://msb.franklincovey.com/inspired/anonymous). There's no "correct" way to make your statement, and you should go with whatever resonates with you.
-
-When I started writing, I noticed that the content in my life statement -- and later my research statement -- naturally clustered into nine main points along three overarching themes. Being a computer scientist, I wrote the statements in table form (and was very excited at coming up with such an logical organizational scheme). I did also come up with a CEO-style, single-sentence summary statement that I wrote in bold across the top of my table.
+When I started writing, I noticed that the content in my life statement -- and later my research statement -- naturally clustered into nine main points along three overarching themes. Being a computer scientist, I wrote the statements in table form (and was very excited at coming up with such an logical organizational scheme). And, for good measure, I also came up with a CEO-style, single-sentence summary for each statement.
 
 
-# My research mission statement
-Below is my research mission statement. It's quite general, and yours might be more specific to your area of study. I've called the nine main points "principles," and the three overarching themes the "virtues." My life statement is similar in both form and content, so I haven't included it (aside from the one-sentence version in this post's introduction).
-
-I chose to write mine in the present tense (e.g., "I learn new things every day") because I find it motivating, but my statement is aspirational, rather than a declaration of fact. (I wouldn't claim that I manage to accomplish these things perfectly all the time...)
+### My research mission statement
+My research statement is quite general, and you might want yours to be more specific to your area of study. I've called my nine main points "principles," and the three overarching themes the "virtues." My life statement is similar in both form and content, so I haven't included it (aside from the one-sentence version in this post's introduction).
 
 <table>
   <col width="20%">
@@ -120,9 +118,10 @@ I chose to write mine in the present tense (e.g., "I learn new things every day"
   </tr>
 </table>
 
-# You wrote your statement. Now what?
-Great job! Be sure to consult your mission statement regularly, particularly when you face a major decision. I have a printout of my research statement posted near my workstation so I see it every day. 
+I chose to write mine in the present tense (e.g., "I am not ashamed of mistakes") because I find it motivating. But my statement is aspirational, rather than a declaration of fact. (I would not claim that I manage to accomplish these things perfectly all the time...)
+
+
+### You wrote your statement. Now what?
+Great job! Be sure to consult your mission statement regularly, particularly when you face a major decision. I have a printout of my research statement posted by my workstation so I see it every day. 
 
 You should review your statement once or twice a year and see if you have anything to add or change. As you gain maturity and experience, you may want to update your mission statement to reflect new lessons learned.
-
-[^1]: Chapter 2 of [*7 Habits of Highly Effective People*](https://amzn.to/2vq5yJZ) gives additional examples of more in-depth mission statements than I've been able to find elsewhere online.
