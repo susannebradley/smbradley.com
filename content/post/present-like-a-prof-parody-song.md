@@ -2,7 +2,7 @@
 title = "Present Like a Prof"
 date = 2018-07-14T17:12:58-07:00
 draft = false
-summary = "Some advice to nervous academics on how to give a maximally obfuscating research talk. To the tune of *I'll Make a Man Out of You* by Matthew Wilder, from the 1998 Disney film *Mulan*."
+summary = "(Parody song.) Some advice to nervous academics on how to give a maximally obfuscating research talk. To the tune of *I'll Make a Man Out of You* by Matthew Wilder, from the 1998 Disney film *Mulan*."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
