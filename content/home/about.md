@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Preconditioning for iterative linear system solvers",
-    "Saddle-point systems",
+    "Saddle point systems",
     "Eigenvalue solvers",
     "Statistics and data mining"
   ]
