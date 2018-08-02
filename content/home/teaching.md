@@ -11,11 +11,11 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 64
 
 +++
 
-I am not currently TA'ing any courses.
+I am not currently teaching or TA'ing any courses.
 
 ### Teaching experience
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis

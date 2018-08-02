@@ -9,7 +9,7 @@ title = "Blog"
 subtitle = ""
 
 # Order that this section will appear in.
-weight =64
+weight =60
 
 # Filter posts by tag.
 #  By default, show all recent posts.
