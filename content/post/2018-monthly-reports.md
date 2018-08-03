@@ -5,7 +5,7 @@ draft = false
 summary = "My monthly reports for 2018. Updated close to the first of every month."
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Susanne Bradley"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -23,7 +23,7 @@ caption = ""
 preview = true
 
 +++
-Starting in July 2018, I've been setting monthly goals and then writing a reflection on the outcomes every month. I got the idea from RescueTime's [guide to setting and achieving goals](https://www.rescuetime.com/guides/goals), and am basing the content of my reports largely on those of [Buster Benson](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f) at Patreon.
+Starting in July 2018, I've been setting monthly goals and then writing a reflection on the outcomes every month. I got the idea from RescueTime's [guide to setting and achieving goals](https://www.rescuetime.com/guides/goals), and am basing the content of my reports largely on [those of Buster Benson](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f) at Patreon.
 
 ---
 # July
