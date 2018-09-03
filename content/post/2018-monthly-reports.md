@@ -26,6 +26,18 @@ preview = true
 Starting in July 2018, I've been setting monthly goals and then writing a reflection on the outcomes every month. I got the idea from RescueTime's [guide to setting and achieving goals](https://www.rescuetime.com/guides/goals), and am basing the content of my reports largely on [those of Buster Benson](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f) at Patreon.
 
 ---
+# August
+**August's highlights**: Went on vacation in Jasper for a week with my family (and got in some good hiking). Took a few days to explore some recent scientific computing papers unrelated to my current project. Tried a bunch of research ideas that didn't go anywhere (oh, well).
+
+**Outcome of last month's goals**: I somewhat met my work goals: I did come up with more ideal preconditioners, but haven't started analyzing how they work in practical circumstances (I've changed my research plans a bit). I did well on the personal goals: I've been weighing myself every week (and lost four pounds without too much effort), have run for 5 km at a time, and can meditate for an hour. 
+
+**Goals for September**: Come up with a detailed plan for my candidacy proposal. Read three books. Increase runs to 8 km and incorporate hills. Go for at least one hike.
+
+**Lessons learned this month**: That I'm (still) too impatient in judging my research progress and tend to expect more progress than is realistic for me. That I genuinely like being in nature and being physically active, and I don't just do it because it's a habit at this point. That skipping a daily meditation session leaves me more agitated and unfocused for the next practice (even if I'm on vacation and am not overly stressed).
+
+**Books, movies, articles, podcasts, or albums I enjoyed this month**: None in particular. I read a couple of books but found them forgettable. And I haven't listened to any new music or podcasts, and haven't watched any movies.
+
+---
 # July
 **July's highlights**: We went on a short vacation with my parents on Vancouver Island. I wrote a [technical report]({{< ref "/publication/bradley18.md" >}}) collecting some of my earlier theoretical results for preconditioning saddle point systems. I established five ideal preconditioners for $2 \times 2$- or $3 \times 3$-block systems, under various conditions on the matrix. (The goal here is to develop preconditioners for $3 \times 3$ saddle point systems like in [Beik and Benzi 2018](https://epubs.siam.org/doi/abs/10.1137/17M1121226), but by starting with preconditioners that are ideal under some restrictive assumptions and analyzing how they extend to more general cases.)
 
