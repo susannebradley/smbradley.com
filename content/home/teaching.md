@@ -15,14 +15,14 @@ weight = 64
 
 +++
 
-I am not currently teaching or TA'ing any courses.
+I am currently the Senior TA for [CPSC 320](https://www.ugrad.cs.ubc.ca/~cs320/2018W1/) (Intermediate Algorithm Design and Analysis).
 
-### Teaching experience
+### Past teaching experience
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis
 
-### TA experience
-- TA for CPSC 542G: Topics in Numerical Computation
-- Head TA for CPSC 320: Intermediate Algorithm Design and Analysis
+### Past TA experience
+- TA for CPSC 542G: Topics in Numerical Computation (graduate breadth course)
+- Senior TA for CPSC 320: Intermediate Algorithm Design and Analysis
 - TA for CPSC 312: Functional and Logic Programming
 - TA for CPSC 303: Numerical Approximation and Discretization
 
