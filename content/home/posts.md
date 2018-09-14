@@ -9,7 +9,7 @@ title = "Blog"
 subtitle = "A place for news, musings, unsolicited advice, and the odd musical number"
 
 # Order that this section will appear in.
-weight =15
+weight =64
 
 # Filter posts by tag.
 #  By default, show all recent posts.
