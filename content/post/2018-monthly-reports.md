@@ -25,6 +25,19 @@ preview = true
 +++
 Starting in July 2018, I've been setting monthly goals and then writing a reflection on the outcomes every month. I got the idea from RescueTime's [guide to setting and achieving goals](https://www.rescuetime.com/guides/goals), and am basing the content of my reports largely on [those of Buster Benson](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f) at Patreon.
 
+
+---
+# September
+**September's highlights**: A busy month. I started running a seminar series and took a new TA position; and when I wasn't busy with those, I managed to put in some time (not as much as I would have liked) on research. I've been reading about PDE-constrained optimization, doing some light math and analyses, and trying to nail down a research direction for my candidacy proposal.
+
+**Outcome of last month's goals**: I failed to come up with a detailed plan for my candidacy proposal. I'm thinking that this goal was too ambitious, both because administrative duties took up a lot of my time this term and because I think I need a bit of space to think about this. I'm making progress in defining the research direction, but haven't worked everything out yet. In terms of personal goals, I met my goals of reading three books and going for longer runs that include hills (more accurately, I'm doing a few runs up and down the sets of 400-500 stairs at Wreck Beach), but I didn't do any hiking.
+
+**Goals for October**: Learn lots at my Vipassana meditation retreat (from the 3rd to the 14th). After the retreat ends, spend the remainder of the month trying to find additional, interesting inverse formulas and decompositions of double saddle point systems and see what I find.
+
+**Lessons learned this month**: I've learned that, despite being fairly calm by temperament, I'm letting performance anxiety distract me and slow me down. By necessity, I've learned how to organize seminars. I've developed new skills in tactfully saying "no" to people, as I've encountered instances of people wanting me to do some work that I either couldn't or didn't want to do. I'm also learning to try to keep myself from acquiring information I don't need to know: in particular, I'm trying not to snoop too much into other people's lives and what they're accomplishing (it serves no purpose, feels voyeuristic, and occasionally makes me feel badly about myself). More philosophically, I figure that, like other citizens of the internet age, I have so much access to information that I can easily inundate myself with irrelevant data and delude myself into thinking that it's making me wiser.
+
+**Books, movies, articles, podcasts, or albums I enjoyed this month**: Didn't see any movies or listen to new podcasts or albums, but read a couple of books I liked: *Middlemarch* by George Eliot and *21 Lessons for the 21st Century* by Yuval Noah Harari.
+
 ---
 # August
 **August's highlights**: Went on vacation in Jasper for a week with my family (and got in some good hiking). Took a few days to explore some recent scientific computing papers unrelated to my current project. Tried a bunch of research ideas that didn't go anywhere (oh, well).
