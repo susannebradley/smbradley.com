@@ -15,14 +15,15 @@ weight = 63
 
 +++
 
-I am currently the Senior TA for [CPSC 320](https://www.ugrad.cs.ubc.ca/~cs320/2018W1/) (Intermediate Algorithm Design and Analysis).
+### Current appointments
+I am a co-lead TA for CPSC 103 (Introduction to Systematic Programming Design). I'm also a facilitator for the internationally recognized [Instructional Skills Workshops](https://iswnetwork.ca/) (ISW) at UBC's Centre for Teaching, Learning, and Technology.
 
 ### Past teaching experience
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis
 
 ### Past TA experience
 - TA for CPSC 542G: Topics in Numerical Computation (graduate breadth course)
-- Senior TA for CPSC 320: Intermediate Algorithm Design and Analysis
+- Lead TA for CPSC 320: Intermediate Algorithm Design and Analysis
 - TA for CPSC 312: Functional and Logic Programming
 - TA for CPSC 303: Numerical Approximation and Discretization
 
