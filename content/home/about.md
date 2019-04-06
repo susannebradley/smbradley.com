@@ -32,6 +32,6 @@ weight = 5
 
 # Biography
 
-Hello! I'm a Ph.D. student with [Chen Greif](https://www.cs.ubc.ca/~greif/) in the [Scientific Computing Lab](http://www.cs.ubc.ca/labs/scl/) at the University of British Columbia. My research focus is numerical linear algebra. Before my Ph.D., I completed my Master's degree in the [Sensorimotor Systems Lab](https://sensorimotor.cs.ubc.ca/?q=cs-research%2Fssl) at UBC and B.Sc. in mathematics from Queen's University.
+Hello! I'm a Ph.D. candidate in scientific computing at the University of British Columbia, supervised by [Chen Greif](https://www.cs.ubc.ca/~greif/). My research focus is numerical linear algebra. Before my Ph.D., I completed my Master's degree in the [Sensorimotor Systems Lab](https://sensorimotor.cs.ubc.ca/?q=cs-research%2Fssl) at UBC and B.Sc. in mathematics at Queen's University.
 
-For more details, check out my {{% staticref "files/cv.pdf" %}}CV{{% /staticref %}} (last updated July 2018).
+For more details, check out my {{% staticref "files/cv.pdf" %}}CV{{% /staticref %}} (last updated April 2019).

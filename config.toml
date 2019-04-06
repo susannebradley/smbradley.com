@@ -10,7 +10,7 @@ title = "Susanne Bradley"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Susanne Bradley"
+copyright = "&copy; 2019 Susanne Bradley"
 
 theme = "academic"
 enableEmoji = true
@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Susanne Bradley"
-  role = "Ph.D. Student in Scientific Computing"
+  role = "Ph.D. Candidate in Scientific Computing"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
