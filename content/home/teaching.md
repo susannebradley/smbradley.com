@@ -16,16 +16,17 @@ weight = 63
 +++
 
 ### Current appointments
-I am a co-lead TA for CPSC 103 (Introduction to Systematic Programming Design). I'm also a facilitator for the internationally recognized [Instructional Skills Workshop](https://ctlt-gradteam.sites.olt.ubc.ca/isw/) (ISW) at the UBC Centre for Teaching, Learning, and Technology.
+In the 2019 summer term, I'm teaching [CPSC 320](https://blogs.ubc.ca/cpsc3202019s2/) (Intermediate Algorithm Design and Analysis). I'm also a facilitator for the internationally recognized [Instructional Skills Workshop](https://ctlt-gradteam.sites.olt.ubc.ca/isw/) (ISW) at the UBC Centre for Teaching, Learning, and Technology.
 
 ### Past teaching experience
-- Instructor for CPSC 320: Intermediate Algorithm Design and Analysis (Winter 2017)
+- Instructor for CPSC 320: Intermediate Algorithm Design and Analysis ([Winter 2017](http://blogs.ubc.ca/cpsc3202016w2/))
 
 ### Past TA experience
 - TA for CPSC 542G: Topics in Numerical Computation (graduate breadth course)
 - Lead TA for CPSC 320: Intermediate Algorithm Design and Analysis
 - TA for CPSC 312: Functional and Logic Programming
 - TA for CPSC 303: Numerical Approximation and Discretization
+- Lead TA for CPSC 103: Introduction to Systematic Program Design
 
 ### Teaching philosophy
 See my {{% staticref "files/teaching_philosophy.pdf" %}}teaching philosophy statement{{% /staticref %}}.
