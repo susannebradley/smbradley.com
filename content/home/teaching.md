@@ -22,12 +22,5 @@ I am not teaching any courses in the 2019-2020 academic year. Aside from my depa
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis ([Summer 2019](http://blogs.ubc.ca/cpsc3202019s2/))
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis ([Winter 2017](http://blogs.ubc.ca/cpsc3202016w2/))
 
-### Past TA experience
-- TA for CPSC 542G: Topics in Numerical Computation (graduate breadth course)
-- Lead TA for CPSC 320: Intermediate Algorithm Design and Analysis
-- TA for CPSC 312: Functional and Logic Programming
-- TA for CPSC 303: Numerical Approximation and Discretization
-- Lead TA for CPSC 103: Introduction to Systematic Program Design
-
 ### Teaching philosophy
 See my {{% staticref "files/teaching_philosophy.pdf" %}}teaching philosophy statement{{% /staticref %}}.
