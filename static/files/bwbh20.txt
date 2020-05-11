@@ -1,0 +1,17 @@
+@inproceedings{bwbh20,
+author = {Belleville, Patrice and Wolfman, Steven A. and Bradley, Susanne and Heeren, Cinda},
+title = {Inverted Two-Stage Exams for Prospective Learning: Using an Initial Group Stage to Incentivize Anticipation of Transfer},
+year = {2020},
+isbn = {9781450367936},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3328778.3366938},
+doi = {10.1145/3328778.3366938},
+booktitle = {Proceedings of the 51st ACM Technical Symposium on Computer Science Education},
+pages = {720–738},
+numpages = {19},
+keywords = {two-stage exams, algorithms, formative assessment, transfer},
+location = {Portland, OR, USA},
+series = {SIGCSE ’20}
+}
+
