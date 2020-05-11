@@ -34,4 +34,4 @@ weight = 5
 
 Hello! I'm a Ph.D. candidate in scientific computing at the University of British Columbia, supervised by [Chen Greif](https://www.cs.ubc.ca/~greif/). I focus on numerical linear algebra and am looking at efficient ways to solve linear systems with special structure. Before my Ph.D., I completed my Master's degree in the [Sensorimotor Systems Lab](https://sensorimotor.cs.ubc.ca/?q=cs-research%2Fssl) at UBC, where I developed machine learning strategies for neuromuscular control of the human hand.
 
-For more details, check out my {{% staticref "files/cv.pdf" %}}CV{{% /staticref %}} (last updated September 2019).
+For more details, check out my {{% staticref "files/cv.pdf" %}}CV{{% /staticref %}} (last updated May 2020).

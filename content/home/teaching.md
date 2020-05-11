@@ -16,7 +16,7 @@ weight = 63
 +++
 
 ### Current appointments
-I am not teaching any courses in the 2019-2020 academic year. Aside from my departmental teaching duties, I'm also a facilitator for the internationally recognized [Instructional Skills Workshop](https://ctlt-gradteam.sites.olt.ubc.ca/isw/) (ISW) at the UBC Centre for Teaching, Learning, and Technology.
+I am not teaching any courses in the 2020-2021 academic year. Aside from my departmental teaching duties, I'm also a facilitator for the internationally recognized [Instructional Skills Workshop](https://ctlt-gradteam.sites.olt.ubc.ca/isw/) (ISW) at the UBC Centre for Teaching, Learning, and Technology.
 
 ### Past teaching experience
 - Instructor for CPSC 320: Intermediate Algorithm Design and Analysis ([Summer 2019](http://blogs.ubc.ca/cpsc3202019s2/))
